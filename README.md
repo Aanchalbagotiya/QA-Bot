@@ -14,7 +14,7 @@ Installation
 bash
 Copy
 Edit
-git clone https://github.com/aanchalbagotiya/data-extraction.git
+git clone https://github.com/aanchalbagotiya/QA-Bot.git
 cd data-extraction
 2. Install dependencies:
 First, ensure that you have the requirements.txt file in the repository. It should contain all the necessary Python libraries.
