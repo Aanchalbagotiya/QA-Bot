@@ -1,0 +1,7 @@
+streamlit
+pdfplumber
+numpy
+faiss-cpu
+sentence-transformers
+transformers
+rouge-score
